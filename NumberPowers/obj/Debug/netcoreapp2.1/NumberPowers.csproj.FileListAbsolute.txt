@@ -1,0 +1,11 @@
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\bin\Debug\netcoreapp2.1\NumberPowers.deps.json
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\bin\Debug\netcoreapp2.1\NumberPowers.runtimeconfig.json
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\bin\Debug\netcoreapp2.1\NumberPowers.runtimeconfig.dev.json
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\bin\Debug\netcoreapp2.1\NumberPowers.dll
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\bin\Debug\netcoreapp2.1\NumberPowers.pdb
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\obj\Debug\netcoreapp2.1\NumberPowers.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\obj\Debug\netcoreapp2.1\NumberPowers.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\obj\Debug\netcoreapp2.1\NumberPowers.AssemblyInfoInputs.cache
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\obj\Debug\netcoreapp2.1\NumberPowers.AssemblyInfo.cs
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\obj\Debug\netcoreapp2.1\NumberPowers.dll
+C:\Users\Ronad\source\repos\NumberPowers\NumberPowers\obj\Debug\netcoreapp2.1\NumberPowers.pdb
